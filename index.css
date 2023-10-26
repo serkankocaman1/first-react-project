@@ -1,0 +1,8 @@
+body{
+    font-family: Inter;
+}
+
+body, p, h2{
+    margin: 0;
+    padding: 0;
+}
